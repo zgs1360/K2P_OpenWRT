@@ -4,4 +4,4 @@
 
 #添加科学上网源
 git clone --depth=1 https://github.com/fw876/helloworld package/helloworld
-
+git clone --depth=1 https://github.com/sirpdboy/luci-app-ddns-go package/ddnsgo
