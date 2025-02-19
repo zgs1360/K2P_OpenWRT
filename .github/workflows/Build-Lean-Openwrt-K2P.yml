@@ -6,9 +6,9 @@ on:
 env:
   REPO_URL: https://github.com/coolsnowwolf/lede
   REPO_BRANCH: master
-  CONFIG_FILE: K2P/.config
-  DIY_SH: K2P/diy.sh
-  FILES: K2P/files
+  CONFIG_FILE: .config
+  DIY_SH: diy.sh
+  FILES: files
   TZ: Asia/Shanghai
 
 jobs:
